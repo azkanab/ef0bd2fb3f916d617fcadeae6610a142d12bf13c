@@ -12,6 +12,14 @@
     height: 165.5px;
 }
 
+.menu {
+    height: 112.5px;
+}
+
+.menuScroll {
+    height: 165.5px;
+}
+
 @media only screen and (max-width: 375px) {
     .container {
         width: 100%;

@@ -6,7 +6,7 @@ import PickType from './PickType'
 export default function Navbar({scroll}) {
     return (
         <div className={scroll === 'down' ? styles.container : styles.container+' '+styles.containerScroll}>
-            <div className={styles.menu}>
+            <div className={scroll === 'down' ? styles.menu : styles.menu+' '+styles.menuScroll}>
                 <Address />
                 <PickDate />
                 <PickType scroll={scroll} />
