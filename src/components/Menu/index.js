@@ -4,8 +4,7 @@ import Card from './Card'
 import { selectedDateState } from '../../states/date'
 import { foodSeninRabuJumat, foodSelasaKamis } from '../../states/foodList'
 import { useRecoilState, useRecoilValue } from 'recoil'
-import { useEffect } from 'react';
-import { useState } from 'react/cjs/react.development';
+import { useEffect, useState } from 'react';
 
 const MainText = styled.p`
     font-family: ProximaNova-Bold;
