@@ -47,32 +47,32 @@ Here are some screenshot of this project once it is built or deployed
 
 1. Home
 
-<img src="https://images/Menu-1.png" height="50px">
+<img src="/images/Menu-1.png" height="50px">
 
 2. Change the date
 
-<img src="https://images/Menu-2.png" height="50px">
+<img src="/images/Menu-2.png" height="50px">
 
 3. Scroll to hide the lunch or dinner choice
 
-<img src="https://images/Menu-3.png" height="50px">
+<img src="/images/Menu-3.png" height="50px">
 
 4. Add your preferred food to your card, and you will see a modal indicating your order on the bottom of the screen
 
-<img src="https://images/Menu-4.png" height="50px">
+<img src="/images/Menu-4.png" height="50px">
 
 5. Tap the 'ALAMAT PENGANTARAN' at the top of the screen and you will see modal
 
-<img src="https://images/Menu-5.png" height="50px">
+<img src="/images/Menu-5.png" height="50px">
 
 6. You can find your location in the search box
 
-<img src="https://images/Menu-6.png" height="50px">
+<img src="/images/Menu-6.png" height="50px">
 
 7. When the location that you have input in the search box is not found, you will find this alert
 
-<img src="https://images/Menu-7.png" height="50px">
+<img src="/images/Menu-7.png" height="50px">
 
 8. When you click one of the location on the modal (for example: 'Kulina'), the location on the navbar will also be changed
 
-<img src="https://images/Menu-8.png" height="50px">
+<img src="/images/Menu-8.png" height="50px">
