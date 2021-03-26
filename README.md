@@ -45,34 +45,34 @@ npm run deploy
 
 Here are some screenshot of this project once it is built or deployed
 
-### Home
+1. Home
 
 <img src="/images/Menu-1.png" height="400px">
 
-### Change the date
+2. Change the date
 
 <img src="/images/Menu-2.png" height="400px">
 
-### Scroll to hide the lunch or dinner choice
+3. Scroll to hide the lunch or dinner choice
 
 <img src="/images/Menu-3.png" height="400px">
 
-### Add your preferred food to your card, and you will see a modal indicating your order on the bottom of the screen
+4. Add your preferred food to your card, and you will see a modal indicating your order on the bottom of the screen
 
 <img src="/images/Menu-4.png" height="400px">
 
-### Tap the 'ALAMAT PENGANTARAN' at the top of the screen and you will see modal
+5. Tap the 'ALAMAT PENGANTARAN' at the top of the screen and you will see modal
 
 <img src="/images/Menu-5.png" height="400px">
 
-### You can find your location in the search box
+6. You can find your location in the search box
 
 <img src="/images/Menu-6.png" height="400px">
 
-### When the location that you have input in the search box is not found, you will find this alert
+7. When the location that you have input in the search box is not found, you will find this alert
 
 <img src="/images/Menu-7.png" height="400px">
 
-### When you click one of the location on the modal (for example: 'Kulina'), the location on the navbar will also be changed
+8. When you click one of the location on the modal (for example: 'Kulina'), the location on the navbar will also be changed
 
 <img src="/images/Menu-8.png" height="400px">
